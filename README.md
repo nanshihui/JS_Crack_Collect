@@ -1,5 +1,5 @@
 # JS_Crack_Collect
-整理了一下市面上，前端网站逆向的例子，含Geetest，美团等，仅用于设计验签、前端对抗方案做参考。勿用于非法操作，侵删。
+整理了一下市面上，前端网站逆向的例子，含Geetest，meituan等，仅用于设计验签、前端对抗方案做参考。勿用于非法操作，侵删。
 
 ## 美团
 * 美团美食
@@ -36,9 +36,13 @@ https://github.com/juzj/reverse_spider/blob/master/%E6%9C%89%E9%81%93%E7%BF%BB%E
 https://github.com/juzj/reverse_spider/blob/master/%E7%99%BE%E5%BA%A6%E7%BF%BB%E8%AF%91/baidu_spider.py
 
 
-## 阿里文学
+## 淘宝
+* 阿里文学
 
 https://github.com/xianyucoder/Crack-JS/blob/master/03-%E9%98%BF%E9%87%8C%E6%96%87%E5%AD%A6/alireader.js
+* 阿里搜索
+
+https://github.com/GoJerry/JSCrack/blob/master/taoBaoSearch/spider.py
 
 ## 知乎
 
@@ -51,3 +55,7 @@ https://github.com/jk50505k/JsCrack/blob/master/pdd/anti_content.js
 ## 极验
 
 https://github.com/daisixuan/Geetest-AST-/blob/master/ast.js
+
+## 携程
+
+https://github.com/GoJerry/JSCrack/blob/master/beibeiLogin/demo.py
