@@ -51,6 +51,12 @@ https://github.com/GoJerry/JSCrack/blob/master/taoBaoSearch/spider.py
 
 https://github.com/Speedor/ZhihuZse86/blob/master/zse86.py
 
+## QQ
+
+* QZone
+
+https://github.com/freedom-wy/js-reverse/blob/master/Qzone/handle_login_qzone.py
+
 ## 拼多多
 
 https://github.com/jk50505k/JsCrack/blob/master/pdd/anti_content.js
