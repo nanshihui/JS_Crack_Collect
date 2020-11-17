@@ -5,6 +5,9 @@
 * 美团美食
 
 https://github.com/xianyucoder/Crack-JS/blob/master/21-%E7%BE%8E%E5%9B%A2%E7%BE%8E%E9%A3%9F/meituan.py
+* 大众点评
+
+https://github.com/freedom-wy/js-reverse/blob/master/dazhongdianping/handle_dianping_css_font.py
 
 ## 58同城
 
