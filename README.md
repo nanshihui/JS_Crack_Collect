@@ -47,6 +47,9 @@ https://github.com/xianyucoder/Crack-JS/blob/master/03-%E9%98%BF%E9%87%8C%E6%96%
 
 https://github.com/GoJerry/JSCrack/blob/master/taoBaoSearch/spider.py
 
+* 优酷
+https://github.com/lateautumn4lin/Review_Reverse/blob/7e8076e170/tb/m_tb.py
+
 ## 知乎
 
 https://github.com/Speedor/ZhihuZse86/blob/master/zse86.py
